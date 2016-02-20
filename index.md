@@ -1,6 +1,6 @@
 # KNDU授業資料置き場
 
-Ryota Nakamuraが京都ノートルダム女子大学で担当している授業の資料です。
+Ryota Nakamuraが[京都ノートルダム女子大学](http://www.notredame.ac.jp/)で担当している授業の資料です。
 
 ## 問い合わせ先
 * a814575 あーと notredame.ac.jp
