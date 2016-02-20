@@ -1,0 +1,35 @@
+/* Customize CSS */
+h2.md-inpage-anchor {
+  border-left: 0.5em solid #999;
+  padding-left: 0.3em;
+}
+
+h3.md-inpage-anchor {
+  border-bottom: 2px solid #999;
+}
+
+h4.md-inpage-anchor:before {
+  content: "★";
+  color: #DD4814;
+  margin-right: 0.2em;
+}
+
+h5.md-inpage-anchor {
+  font-size: large;
+}
+
+h5.md-inpage-anchor:before {
+  content: "*";
+  color: #DD4814;
+  margin-right: 0.2em;
+}
+
+#md-content {
+  font-size: large;
+}
+
+th {
+  color: #FFFFFF;
+  background-color: #DD4814;
+  text-align : center;
+}
