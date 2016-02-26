@@ -33,3 +33,7 @@ th {
   background-color: #DD4814;
   text-align : center;
 }
+
+.dropdown-header {
+  color: rgba(0,0,0,0.5);
+}
