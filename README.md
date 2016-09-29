@@ -2,4 +2,4 @@
 Ryota Nakamuraが担当する授業の資料置き場です。
 
 * GitHub Pages
-  * http://xdncl.github.io/kndu/
+  * https://xdncl.github.io/kndu/
