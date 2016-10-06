@@ -13,6 +13,7 @@ Ryota Nakamuraが[京都ノートルダム女子大学](http://www.notredame.ac.
 * [情報処理G](lecture/2016infoG.md)
 
 ## 2015年度
+
 * 情報科学概論A
 * 情報処理G
 
