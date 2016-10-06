@@ -1,4 +1,4 @@
-[gimmick:theme](amelia)
+[gimmick:theme(inverse:true)](flatly)
 
 # KNDU
 
