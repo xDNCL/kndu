@@ -1,0 +1,46 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html lang="ja">
+<head>
+<meta http-equiv="Content-type" content="text/html; charset=shift_jis">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<script type="text/javascript" src="des.js"></script>
+<title>キーコード</title>
+
+<style>
+input {
+	font-size: large;
+}
+
+input:focus {
+	border:solid 1px #EEA34A;
+}
+</style>
+
+</head>
+
+<body>
+
+<script type="text/javascript"><!--
+function crypt3(_f)
+{
+	var key = _f.ukey.value;
+	var salt = "";
+	_f.slt.value = des.crypt(key, salt).substr(2);
+}
+// -->
+</script>
+
+<form>
+<dl>
+<dt>ユーザー名</dt>
+<dd><input type="text" name="ukey" value="" maxlength="8" size="20"></dd>
+<dt>キーコード</dt>
+<dd><input type="text" name="slt" value="" size="20" readonly></dd>
+</dl>
+<input type="button" value="キー生成" onclick="crypt3(this.form)">
+</form>
+
+
+</body></html>
+
