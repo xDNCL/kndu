@@ -10,3 +10,4 @@
   * [情報処理G](lecture/2016infoG.md)
 
 [Active! mailの設定](ActiveMailSetting.md)
+[PENの自習方法](PENprogramming.md)
