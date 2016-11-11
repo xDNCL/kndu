@@ -7,4 +7,4 @@
 ## 2015年度
 - プログラミング入門
 	- [提出課題1](lecture/2015infoG/prog1.md)
-	- [作品企画シート](lecture/2015infoG/SubmittedProposal.pdf)
+	- [作品企画シート(PDF)](lecture/2015infoG/SubmittedProposal.pdf)
