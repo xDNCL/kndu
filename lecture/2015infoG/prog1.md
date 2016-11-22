@@ -149,7 +149,6 @@ digitalWrite(16, 0)
 
 ```
 pinMode(5, "OUTPUT")
-
 pinMode(6, "OUTPUT")
 pinMode(16, "OUTPUT")
 pinMode(18, "OUTPUT")
