@@ -20,7 +20,7 @@
 ### LilyPad研究会に参加して勉強する場合
 
 1. LilyPad研究会が開催されているかを確認
-	- http://lilypad.pen.jp/
+	- https://lilypad.pen.jp/
 2. LilyPad研究会に参加する
 	- LilyPad研究会に参加して勉強するときには**実機を直接触りながら**学ぶことができます
 
@@ -31,6 +31,6 @@
 	- https://java.com/ja/download/
 2. ダウンロードしたJavaインストーラをダブルクリックしてJavaをインストール
 3. PENのダウンロード
-	- http://www.media.osaka-cu.ac.jp/PEN/files/PEN_Archive/PEN_v124r2-KNDU.zip
+	- https://www.media.osaka-cu.ac.jp/PEN/files/PEN_Archive/PEN_v124r2-KNDU.zip
 4. ダウンロードした「**PEN_v124r2-KNDU.zip**」を解凍
 5. 解凍して作成された「**PEN_v124r2-KNDU**」を開き「**PEN.jar**」をダブルクリックしてPENを起動
