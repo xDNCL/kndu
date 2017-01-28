@@ -46,6 +46,9 @@
 
 ![](2016infoG/test.png)
 
+- [まとめテスト](2016infoG/MatomeTest.pdf)
+- [まとめテスト（模範解答）](2016infoG/MatomeTestAns.pdf)
+
 ### プログラミング入門過去問題
 
 - [プログラミング入門過去問題](2016infoG/pro-kako.pdf)
