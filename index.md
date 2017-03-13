@@ -7,6 +7,11 @@ Ryota Nakamuraが[京都ノートルダム女子大学](http://www.notredame.ac.
 * a814575 あーと notredame.ac.jp
   * あーとを@にしてください
 
+## 2017年度
+
+* [情報科学概論A](lecture/2017iisA.md)
+* [情報処理F](lecture/2017infoF.md)
+
 ## 2016年度
 
 * 情報科学概論A
